@@ -9,11 +9,15 @@ Few-Shot Class-Incremental Learning (FSCIL) must contend with the dual challenge
 
 ## Results
 
-![image-20250925094203472](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250925094203472.png)
+![实验结果](images/cub200.png)
 
-![image-20250925094229288](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250925094229288.png)
 
-![image-20250925094249233](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250925094249233.png)
+
+![实验结果](images/miniImageNet.png)
+
+
+
+![实验结果](images/cifar100.png)
 
 # Datasets and environment
 
